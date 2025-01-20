@@ -31,7 +31,7 @@ const UploadContainer = styled.div`
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  background-color: rgba(75, 72, 106, 0.7);
+  background-color: rgba(75, 72, 106, 0.4);
   border: 1px dashed var(--neutral-500);
 
   padding: 1rem;

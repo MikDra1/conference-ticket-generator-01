@@ -52,7 +52,7 @@ const InputContainer = styled.div`
   & input {
     border: 1px solid var(--neutral-500);
     padding: 0.5rem 0.5rem 0.5rem 0.8rem;
-    background-color: rgba(75, 72, 106, 0.7);
+    background-color: rgba(75, 72, 106, 0.4);
     border-radius: 0.5rem;
     color: white;
     cursor: pointer;
